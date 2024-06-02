@@ -4,7 +4,9 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>React Weather App</h1>
+        <a href="./index.js" className="homeLink">
+          React Weather App
+        </a>
       </header>
     </div>
   );
