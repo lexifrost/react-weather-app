@@ -1,0 +1,32 @@
+.appContainer {
+  text-align: center;
+}
+
+.searchForm {
+  padding: 30px;
+  margin: 0 auto;
+}
+
+.searchInput {
+  border: 2px solid #ffaaa5;
+  border-radius: 5px;
+  font-size: 16px;
+  height: 40px;
+  padding: 10px;
+  width: 250px;
+}
+
+.submitBtn {
+  background-color: #ffaaa5;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+  height: 40px;
+  margin-left: 10px;
+  padding: 0 25px;
+}
+
+.weatherList {
+  list-style: none;
+}
