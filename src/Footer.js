@@ -5,12 +5,7 @@ export default function Footer() {
   return (
     <footer>
       This project was coded by{" "}
-      <a
-        href="https://github.com/lexifrost"
-        target="_blank"
-        rel="noreferrer"
-        className="footerLink"
-      >
+      <a href="https://github.com/lexifrost" target="_blank" rel="noreferrer">
         Lexi Frost
       </a>
       , is open-sourced on{" "}
@@ -18,7 +13,6 @@ export default function Footer() {
         href="https://github.com/lexifrost/react-weather-app"
         target="_blank"
         rel="noreferrer"
-        className="footerLink"
       >
         GitHub
       </a>{" "}
@@ -27,7 +21,6 @@ export default function Footer() {
         href="https://comforting-pastelito-f82ed2.netlify.app/"
         target="_blank"
         rel="noreferrer"
-        className="footerLink"
       >
         Netlify
       </a>
